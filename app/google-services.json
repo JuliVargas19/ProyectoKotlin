@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782065792900",
+    "project_id": "literahub-3bca0",
+    "storage_bucket": "literahub-3bca0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782065792900:android:baab5a226426fe61648fd1",
+        "android_client_info": {
+          "package_name": "com.example.proyecto2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Z2pB85zOLHEj00dqcS0_V9VlplNe-Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
